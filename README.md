@@ -6,7 +6,7 @@ This project focuses on optimizing hotel revenue performance by analyzing guest 
 The goal is to provide actionable insights for stakeholders to mitigate revenue loss and capitalize on high-demand periods.
 
 ## 🗂️ Data
-The dataset was obtained from Kaggle: [EDA Video Games Sales by siddharth0935](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+The dataset was obtained from Kaggle: [Hotel booking demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
