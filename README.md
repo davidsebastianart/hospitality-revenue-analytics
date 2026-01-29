@@ -5,6 +5,13 @@ This project focuses on optimizing hotel revenue performance by analyzing guest 
 
 The goal is to provide actionable insights for stakeholders to mitigate revenue loss and capitalize on high-demand periods.
 
+## 🗂️ Data
+The dataset was obtained from Kaggle: [EDA Video Games Sales by siddharth0935](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+
+This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
+
+All personally identifying information has been removed from the data.
+
 ## 🛠️ Tech Stack
 * **Data Processing:** Python (Pandas, NumPy)
 * **Analysis:** Jupyter Notebook
@@ -21,3 +28,8 @@ The goal is to provide actionable insights for stakeholders to mitigate revenue 
 
 > **Interactive Version:** [View the Live Tableau Dashboard Here](https://public.tableau.com/views/GlobalHospitalityRevenueManagement/GlobalHospitalityRevenueManagementDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+---
+
+👨‍💻 Created by: **David Sebastian Aritonang**  
+📧 Email: [davidsebastianartt@gmail.com](mailto:davidsebastianartt@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/david-sartt](https://www.linkedin.com/in/david-sartt/)  
