@@ -1,4 +1,4 @@
-# Global Hospitality Revenue Management: Strategic Yield & Booking Intelligence
+# Global Hospitality Revenue Management: Strategic Yield & Booking Demand Analytics
 
 ## 📌 Project Overview
 This project focuses on optimizing hotel revenue performance by analyzing guest booking patterns, pricing strategies (ADR), and cancellation risks. Using a comprehensive hotel reservation dataset, I performed end-to-end data processing—from **Data Cleaning** and **Feature Engineering** in Python to creating an **Executive-Level Dashboard** in Tableau.
